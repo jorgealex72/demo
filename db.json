@@ -2,17 +2,17 @@
   "contactos": [
     {
       "nombre": "Julio Ponce",
-      "telefono": "917654321"
+      "telefono": "917654321",
       "correo": "julio.ponce@telefonica.com"
     },
     {
        "nombre": "Diego Ramos",
-      "telefono": "917654300"
+      "telefono": "917654300",
       "correo": "dramosq@tgestiona.com.pe"
     },
     {
        "nombre": "Jorge Sánchez",
-      "telefono": "900654321"
+      "telefono": "900654321",
       "correo": "jsanchezb@tgestiona.com.pe"
     }
   ],
